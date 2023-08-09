@@ -12,4 +12,3 @@ Feature: Bank OCR Kata
       """
     When I parse the file
     Then the first account number is "123456789"
-@https://sankar-ramanarayanan.atlassian.net/browse/ZS-7
