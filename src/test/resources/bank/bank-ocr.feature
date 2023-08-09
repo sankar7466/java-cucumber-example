@@ -1,7 +1,7 @@
 Feature: Bank OCR Kata
 
   See details: https://github.com/testdouble/contributing-tests/wiki/Bank-OCR-Kata-in-Cucumber
-
+  @https://sankar-ramanarayanan.atlassian.net/browse/ZS-7
   Scenario: read account numbers
     Given I have an account file with contents:
       """
